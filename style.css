@@ -1,0 +1,121 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Hind Madurai' ;
+}
+.header-part{
+    
+    
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+
+}
+section{
+    width:1349px;
+    height:600px;
+}
+.top-headTag{
+    margin-bottom:30px;
+    font-size:40px;
+}
+.mahbub-fontSize{
+    font-size: 50px;
+    color:rgb(156, 29, 156);
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin:2%;
+    padding:2%;
+}
+.half-width img{
+    width:100%;
+}
+.top-Ptag{
+    padding:10px;
+    margin-bottom:10px;
+    text-align:justify;
+}
+.link-button{
+    text-decoration:none;
+    background-image:linear-gradient(45deg,#EC4F8F, #ED4B72);
+    padding:10px 20px;
+    margin-left:8px;
+    color:white;
+    border-radius:10px;
+}
+.Biography-part{
+    
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.Biography-pTag{
+    padding:8px;
+    margin-bottom:10px;
+    text-align: justify;
+}
+.latest-part{
+    width:960px;
+    margin:70px auto;
+    height:450px;
+    background-image: url("latest-work-bg.png");
+}
+.latest-work-head{
+    text-align: center;
+    margin-bottom:40px;
+    font-size:30px;
+}
+.latest-work-part img{
+    float:left;
+    width:30%;
+    margin-left:25px;
+    
+    box-shadow: 0px 0px 10px rgb(4, 248, 86) ;
+}
+.client-section{
+    height:850px;
+    background-image: url("latest-work-bg.png");
+}
+.client-part-head{
+    font-size:40px;
+    margin-bottom:80px;
+    font-weight: bold;
+    text-align: center;
+}
+.client-name{
+    text-align:center;
+    margin-bottom:30px;
+}
+.client-mess{  
+    text-align: justify;
+    width:300px;
+    margin: 0 auto;
+}
+.message-part{
+    width:700px;
+    height:200px;
+    background-color: #ED4B6D;
+    margin:60px auto;
+    border-radius:15px;
+    position: relative;
+}
+.under-message{
+    text-align: center;
+    position: absolute;
+    top:90px;
+    left:30%;
+    color:white;
+}
+.under-message1{
+    top:35px;
+    left:36%;
+}
+.footer{
+    text-align: center;
+    margin-top:50px;
+    background-color:beige;
+    padding:15px;
+}
